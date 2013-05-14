@@ -1,0 +1,115 @@
+# A dataset for the 0-1 knapsack problem retrieved from
+# http://homepage.ntlworld.com/walter.barker2/Knapsack%20Problem.htm
+# http://homepage.ntlworld.com/walter.barker2/Knapsack%20data/1%20dimension/Medium/KNAPDATA.TXT
+#
+# this is a medium dataset, with a set of 100 weights and profits for a knapsack of capacity 27
+# (Optimal? selection = 58,93,97 with profit 1173)
+#
+# This dataset is copyright Walt Barker
+# 
+# File format:
+# <- (This is a comment)
+# First non comment line = Max weight capacity
+# Every next non comment line is a object with value and weight separated by a space
+#
+27
+356 8
+367 17
+309 12
+338 20
+392 15
+339 8
+338 8
+390 15
+317 16
+343 15
+392 12
+369 18
+359 18
+390 12
+367 16
+313 16
+325 15
+351 7
+372 17
+321 16
+302 14
+359 12
+359 9
+350 13
+371 12
+330 16
+304 11
+367 17
+345 9
+346 12
+368 13
+365 14
+346 19
+351 15
+384 17
+363 17
+368 17
+391 19
+348 20
+367 14
+343 13
+307 18
+305 19
+378 14
+316 19
+323 14
+340 17
+394 17
+328 9
+342 17
+383 14
+364 8
+372 9
+302 18
+380 14
+352 13
+303 11
+384 9
+334 17
+357 10
+345 19
+348 17
+316 9
+323 8
+312 11
+321 10
+374 7
+351 12
+308 16
+321 11
+329 10
+379 19
+381 7
+301 10
+327 10
+356 7
+378 13
+387 18
+354 13
+351 10
+382 17
+371 19
+382 14
+347 14
+375 15
+314 13
+338 8
+319 13
+349 19
+329 20
+341 10
+324 8
+390 10
+365 7
+365 18
+377 20
+399 8
+315 8
+330 14
+352 17

@@ -1,0 +1,55 @@
+# A dataset for the 0-1 knapsack problem retrieved from
+# http://homepage.ntlworld.com/walter.barker2/Knapsack%20Problem.htm
+# http://homepage.ntlworld.com/walter.barker2/Knapsack%20data/1%20dimension/small/knapdata.txt
+#
+# this is dataset small, a set of 40 weights and profits for a knapsack of capacity 15
+# (Optimal? selection = 28,29,19 with profit 1149)
+#
+# This dataset is copyright Walt Barker
+# 
+# File format:
+# <- (This is a comment)
+# First non comment line = Max weight capacity
+# Every next non comment line is a object with value and weight separated by a space
+#
+15
+369 7
+346 10
+322 11
+347 10
+348 12
+383 13
+347 8
+364 11
+340 8
+324 8
+365 13
+314 12
+306 13
+394 13
+326 7
+310 11
+400 9
+339 13
+381 5
+353 14
+383 6
+317 9
+349 6
+396 11
+353 14
+322 9
+329 5
+386 5
+382 5
+369 4
+304 6
+392 10
+390 8
+307 8
+318 10
+359 13
+378 9
+376 8
+330 11
+331 9

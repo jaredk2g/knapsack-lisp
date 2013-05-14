@@ -1,0 +1,39 @@
+# A dataset for the 0-1 knapsack problem retrieved from
+# http://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+#
+# this is dataset P08, a set of 24 weights and profits for a knapsack of capacity 6404180
+# (Optimal selection = 110111000110100100000111 with profit 13549094)
+#
+# Licensed GNU LGPL3
+# http://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt
+# 
+# File format:
+# <- (This is a comment)
+# First non comment line = Max weight capacity
+# Every next non comment line is a object with value and weight separated by a space
+#
+6404180
+825594 382745
+1677009 799601
+1676628 909247
+1523970 729069
+943972 467902
+97426 44328
+69666 34610
+1296457 698150
+1679693 823460
+1902996 903959
+1844992 853665
+1049289 551830
+1252836 610856
+1319836 670702
+953277 488960
+2067538 951111
+675367 323046
+853655 446298
+1826027 931161
+65731 31385
+901489 496951
+577243 264724
+466257 224916
+369261 169684

@@ -1,0 +1,20 @@
+# A dataset for the 0-1 knapsack problem retrieved from
+# http://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+#
+# this is dataset P02, a set of 5 weights and profits for a knapsack of capacity 26
+# (Optimal selection = 01110)
+#
+# Licensed GNU LGPL3
+# http://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt
+# 
+# File format:
+# <- (This is a comment)
+# First non comment line = Max weight capacity
+# Every next non comment line is a object with value and weight separated by a space
+#
+26
+24 12
+13 7
+23 11
+15 8
+16 9
